@@ -1,0 +1,2 @@
+SELECT * FROM s03151 where to_char(fecrea,'rrrr')='2020';
+https://mdbootstrap.com/docs/jquery/components/buttons/
