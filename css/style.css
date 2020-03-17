@@ -46,3 +46,25 @@ img.logo {
     max-width: 54%;
     margin-top: 80px;
 }
+
+
+/*Modal Folio*/
+
+table.table th,
+table.table td {
+    padding-top: 0.1rem;
+    padding-bottom: 0rem;
+}
+
+.modal-content {
+    width: 140%!important;
+    margin-left: -100px;
+}
+
+.tabla-descripcion {
+    margin-top: 30px;
+}
+
+.letra9 {
+    font-size: 9px;
+}
